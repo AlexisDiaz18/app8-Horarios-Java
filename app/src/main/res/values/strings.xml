@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">app8-Horarios</string>
+    <string name="txtIngresar">Integrante de la mesa</string>
+    <string name="txtFase">Fase</string>
+    <string name="txtFaseAlumno">Esperando Alumno</string>
+    <string name="btnMirar">Mirar Horario</string>
+
+    <string name="txtHorarios">Horario Correspondiente a la fase</string>
+    <string name="txtHorarioMateria">Horario</string>
+    <string name="txtMateria">Materia</string>
+    <string name="txtDocente">Docente</string>
+    <string name="txtNombre">Esperando Nombre</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
